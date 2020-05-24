@@ -1,0 +1,25 @@
+.fund-details{
+    font-size: x-large;
+}
+
+.summary-title{
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+.fund-description {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.fund-description div{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+}
+
+.summary-card-button{
+    width: 25%;
+    align-self: center;
+}

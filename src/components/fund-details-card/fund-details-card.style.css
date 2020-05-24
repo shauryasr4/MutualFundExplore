@@ -1,0 +1,12 @@
+.fund-info {
+    width: 25%;
+}
+
+.info-entry {
+    display: flex;
+    justify-content: space-between;
+}
+
+.entry-title {
+    font-weight: bold;
+}
